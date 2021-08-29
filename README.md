@@ -1,3 +1,3 @@
 # Python_universe
-使用 Python 和 Visual Studio Code 探索太空
-，為Microsoft免費的課程模組
+使用 Python 和 Visual Studio Code 探索太空  
+為Microsoft免費的課程模組
